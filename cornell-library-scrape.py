@@ -30,5 +30,5 @@ def main():
 	url = 'http://www.law.cornell.edu/supct/author.php?Alito' #will need to iterate over all of them
 	get_writings_links(url)
 	
-if __init__ = "__main__":
+if __name__ = "__main__":
 	main()
